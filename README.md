@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Task 4 - Fetching the records from https://dummyjson.com/users and display the content in a table in Client side
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
